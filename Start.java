@@ -10,4 +10,6 @@ public class Start {
     String val5 = "4 PR";
 
     String val6 = "5 PR";
+
+    String val7 = "6 PR";
 }
