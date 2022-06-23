@@ -8,4 +8,6 @@ public class Start {
     String val4 = "3 PR";
 
     String val5 = "4 PR";
+
+    String val6 = "5 PR";
 }
